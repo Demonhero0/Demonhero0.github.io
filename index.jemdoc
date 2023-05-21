@@ -49,6 +49,13 @@ Please find my full list of publications in the following [https://scholar.googl
   \[[https://dl.acm.org/doi/abs/10.1145/3551349.3560429 pdf]\]
   \[[https://github.com/Demonhero0/rlf code]\]
 
+=== Preprints
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
+  Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
+  arXiv, 2023.\n
+  \[[https://arxiv.org/abs/2305.08456 pdf]\]
+  \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
+
 == Rewards
 
 . NUMEN CTF. \[[https://ctf.numencyber.com/scoreboard Link]\], 8th place (0xdd team).
