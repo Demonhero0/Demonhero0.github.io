@@ -38,6 +38,9 @@ Please find my full list of publications in the following [https://scholar.googl
 
 === Conferences and Journals
 
+. *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
+  *Jianzhong Su*, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen\*, Zibin Zheng, Wei Lv, Jiashui Wang.\n
+   In proceddings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*)(Accepted) \[CCF-A\].\n
 . *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum* \n
   Zibin Zheng, Neng Zhang\*, *Jianzhong Su*, Zhijie Zhong, Mingxi Ye, Jiachi Chen.\n
   In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering. (*ICSE 2023*) \[CCF-A\].\n
