@@ -37,7 +37,11 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [https://scholar.google.com/citations?user=-wdUfC8AAAAJ&hl=zh-CN Link].
 
 === Conferences and Journals
-
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
+  Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
+  Transactions on Software Engineering. (*TSE 2024*) \[CCF-A\].\n
+  \[[https://arxiv.org/abs/2305.08456 pdf]\]
+  \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
 . *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
   *Jianzhong Su*, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen\*, Zibin Zheng, Wei Lv, Jiashui Wang.\n
    In proceddings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*) \[CCF-A\].\n
@@ -55,11 +59,6 @@ Please find my full list of publications in the following [https://scholar.googl
   \[[https://github.com/Demonhero0/rlf code]\]
 
 === Preprints
-. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
-  Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
-  arXiv, 2023.\n
-  \[[https://arxiv.org/abs/2305.08456 pdf]\]
-  \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
 . *When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?* \n
   Chong Chen, *Jianzhong Su*, Jiachi Chen\*, Yanlin Wang, Tingting Bi, Yanli Wang, Xingwei Lin, Ting Chen, Zibin Zheng.\n
   arXiv, 2023.\n
