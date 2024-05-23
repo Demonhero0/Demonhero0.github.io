@@ -13,23 +13,11 @@ E-mail: sujzh3 AT mail2.sysu.edu.cn \n
 ~~~
 
 == About me
-I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University], where I am supervised by [http://www.zibinzheng.com/ Prof. Zibin Zheng] and [https://jiachi-chen.github.io/ Dr. Jiachi Chen]. I also play Smart Contract CTF and Code4rena for fun.
+I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University], where I am supervised by [http://www.zibinzheng.com/ Prof. Zibin Zheng] and [https://jiachi-chen.github.io/ Dr. Jiachi Chen]. I also play Smart Contract CTF and bug hunting competitions (e.g., Code4rena) for fun.
 
 My research interests include: 
 - Security of Blockchain and Smart Contract
 - Fuzzing
-
-==  Educations
-
-- *Sun Yat-sen University*
-Ph.D in Software Engineering, from August 2021 to June 2026 (Expected).
-
-- *Sun Yat-sen University*
-B.S. in Information and Computing Science, from August 2017 to June 2021.
-
-==  Experiences
-
-- Research Intern in Ant Group, from July 2022 to now.
 
 == Selected Publications 
 
@@ -44,7 +32,7 @@ Please find my full list of publications in the following [https://scholar.googl
   \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
 . *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
   *Jianzhong Su*, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen\*, Zibin Zheng, Wei Lv, Jiashui Wang.\n
-   In proceddings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*) \[CCF-A\].\n
+   In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*) \[CCF-A\].\n
   \[[https://github.com/Demonhero0/DeFiWarder/blob/main/paper/DeFiWarder_ASE23.pdf pdf]\]
   \[[https://github.com/Demonhero0/DeFiWarder code]\]
 . *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum* \n
@@ -54,7 +42,7 @@ Please find my full list of publications in the following [https://scholar.googl
   \[[https://github.com/InPlusLab/ReentrancyStudy-Data dataset]\]
 . *Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing* \n
   *Jianzhong Su*, Hong-Ning Dai, Lingjun Zhao, Zibin Zheng\*, Xiapu Luo.  \n
-  In proceddings of the 37th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2022*) \[CCF-A\].\n
+  In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2022*) \[CCF-A\].\n
   \[[https://dl.acm.org/doi/abs/10.1145/3551349.3560429 pdf]\]
   \[[https://github.com/Demonhero0/rlf code]\]
 
@@ -69,6 +57,18 @@ Please find my full list of publications in the following [https://scholar.googl
 . Paradigm CTF. \[[https://ctf.paradigm.xyz/scoreboard Link]\], 20st place (20/859) (paly with zan_team), October, 2023.
 . MetaTrust Web3 Security CTF. \[[https://ctf.metatrust.io/scoreboard Link]\], 5th place (5/667) (0xdd team), September, 2023.
 . NUMEN CTF. \[[https://ctf.numencyber.com/scoreboard Link]\], 8th place (0xdd team), March, 2023.
+
+==  Educations
+
+- *Sun Yat-sen University*
+Ph.D in Software Engineering, from August 2021 to June 2026 (Expected).
+
+- *Sun Yat-sen University*
+B.S. in Information and Computing Science, from August 2017 to June 2021.
+
+==  Experiences
+
+- Research Intern in Ant Group, from July 2022 to May 2024, working for security of blockchain and smart contracts.
 
 == Scholarship
 . National Scholarship: 2022 in Sun Yat-sen University
