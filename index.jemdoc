@@ -25,9 +25,13 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [https://scholar.google.com/citations?user=-wdUfC8AAAAJ&hl=zh-CN Link].
 
 === Conferences and Journals
+. *Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts* \n
+  Jiashuo Zhang, Yiming Shen, Jiachi Chen\*, *Jianzhong Su*, Yanlin Wang, Ting Chen, Jianbo Gao\*, Zhong Chen\*.\n
+  In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering. (*ICSE 2025*) \[CCF-A\].\n
+  \[[https://arxiv.org/abs/2408.04939 pdf]\]
 . *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
   Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
-  Transactions on Software Engineering. (*TSE 2024*) \[CCF-A\].\n
+  IEEE Transactions on Software Engineering. (*TSE 2024*) \[CCF-A\].\n
   \[[https://arxiv.org/abs/2305.08456 pdf]\]
   \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
 . *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
@@ -76,6 +80,7 @@ B.S. in Information and Computing Science, from August 2017 to June 2021.
 
 == Scholarship
 . National Scholarship: 2022 in Sun Yat-sen University
+. Wang Shujun Scholarship: 2024 in Sun Yat-sen University
 
 == Useful Links
 Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
