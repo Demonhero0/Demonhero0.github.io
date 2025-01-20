@@ -25,6 +25,17 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [https://scholar.google.com/citations?user=-wdUfC8AAAAJ&hl=zh-CN Link].
 
 === Conferences and Journals
+. *SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection* \n
+  *Jianzhong Su*, Jiachi Chen, Zhiyuan Fang, Xingwei Lin, Yutian Tang, Zibin Zheng\*. \n
+  IEEE Transactions on Software Engineering. (*TSE 2025*) \[CCF-A\].\n
+  \[[https://arxiv.org/abs/2406.10054 pdf]\]
+. *Quantitative Runtime Monitoring of Ethereum Transaction Attacks* \n
+  Xinyao Xu, Ziyu Mao, *Jianzhong Su*, Xingwei Lin, David A. Basin, Jun Sun, Jingyi Wang\*. \n
+  International World Wide Web Conference. (*WWW 2025*) \[CCF-A\].\n
+. *Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges* \n
+  Jiajing Wu, Kaixin Lin, Dan Lin\*, Bozhao Zhang, Zhiying Wu, *Jianzhong Su*. \n
+  International World Wide Web Conference. (*WWW 2025*) \[CCF-A\].\n
+  \[[https://arxiv.org/abs/2410.14493 pdf]\]
 . *When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?* \n
   Chong Chen, *Jianzhong Su*, Jiachi Chen\*, Yanlin Wang, Tingting Bi, Jianxing Yu, Yanli Wang, Xingwei Lin, Ting Chen, Zibin Zheng.\n
   ACM Transactions on Software Engineering and Methodology (*TOSEM 2024*) \[CCF-A\].\n
@@ -53,13 +64,6 @@ Please find my full list of publications in the following [https://scholar.googl
   In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2022*) \[CCF-A\].\n
   \[[https://dl.acm.org/doi/abs/10.1145/3551349.3560429 pdf]\]
   \[[https://github.com/Demonhero0/rlf code]\]
-
-=== Preprints
-
-. *SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection* \n
-  *Jianzhong Su*, Jiachi Chen, Zhiyuan Fang, Xingwei Lin, Yutian Tang, Zibin Zheng. \n
-  arXiv, 2024.\n
-  \[[https://arxiv.org/abs/2406.10054 pdf]\]
 
 == Rewards
 
