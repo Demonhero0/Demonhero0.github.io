@@ -30,10 +30,34 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [https://scholar.google.com/citations?user=-wdUfC8AAAAJ&hl=zh-CN Link].
 
 === Conferences and Journals
+. *Odyssey: Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration* \n
+  *Jianzhong Su*, Mingxi Ye, Jiachi Chen, Yuhong Nan, Peilin Zheng, Tao Zhang, Zibin Zheng. \n
+  The ACM International Conference on the Foundations of Software Engineering. (*FSE 2026*) \[CCF-A\].\n
 . *SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection* \n
   *Jianzhong Su*, Jiachi Chen, Zhiyuan Fang, Xingwei Lin, Yutian Tang, Zibin Zheng\*. \n
   IEEE Transactions on Software Engineering. (*TSE 2025*) \[CCF-A\].\n
   \[[https://arxiv.org/abs/2406.10054 pdf]\]
+. *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
+  *Jianzhong Su*, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen\*, Zibin Zheng, Wei Lv, Jiashui Wang.\n
+   In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*) \[CCF-A\].\n
+  \[[https://github.com/Demonhero0/DeFiWarder/blob/main/paper/DeFiWarder_ASE23.pdf pdf]\]
+  \[[https://github.com/Demonhero0/DeFiWarder code]\]
+. *Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing* \n
+  *Jianzhong Su*, Hong-Ning Dai, Lingjun Zhao, Zibin Zheng\*, Xiapu Luo.  \n
+  In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2022*) \[CCF-A\].\n
+  \[[https://dl.acm.org/doi/abs/10.1145/3551349.3560429 pdf]\]
+  \[[https://github.com/Demonhero0/rlf code]\]
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
+  Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
+  IEEE Transactions on Software Engineering. (*TSE 2024*) \[CCF-A\].\n
+  \[[https://arxiv.org/abs/2305.08456 pdf]\]
+  \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
+. *ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents* \n
+  Mingxi Ye, Yuhong Nan, Zhijie Zhong, *Jianzhong Su*, Xingwei Lin, Peilin Zheng, Zibin Zheng. \n
+  The ACM International Conference on the Foundations of Software Engineering. (*FSE 2026*) \[CCF-A\].\n
+. *Towards Understanding Functional Bugs in EVM-based Blockchain Systems* \n
+  Mingxi Ye, Yuhong Nan, *Jianzhong Su*, Zhijie Zhong, Yuming Xiao, Peilin Zheng, Zibin Zheng. \n
+  IEEE Transactions on Software Engineering. (*TSE 2026*) \[CCF-A\].\n
 . *Quantitative Runtime Monitoring of Ethereum Transaction Attacks* \n
   Xinyao Xu, Ziyu Mao, *Jianzhong Su*, Xingwei Lin, David A. Basin, Jun Sun, Jingyi Wang\*. \n
   International World Wide Web Conference. (*WWW 2025*) \[CCF-A\].\n
@@ -48,27 +72,13 @@ Please find my full list of publications in the following [https://scholar.googl
 . *Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts* \n
   Jiashuo Zhang, Yiming Shen, Jiachi Chen\*, *Jianzhong Su*, Yanlin Wang, Ting Chen, Jianbo Gao\*, Zhong Chen\*.\n
   In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering. (*ICSE 2025*) \[CCF-A\].\n
+  ACM SIGSOFT Distinguished Paper Award \n
   \[[https://arxiv.org/abs/2408.04939 pdf]\]
-. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects* \n
-  Zibin Zheng, *Jianzhong Su*, Jiachi Chen\*, David Lo, Zhijie Zhong, Mingxi Ye.\n
-  IEEE Transactions on Software Engineering. (*TSE 2024*) \[CCF-A\].\n
-  \[[https://arxiv.org/abs/2305.08456 pdf]\]
-  \[[https://github.com/InPlusLab/DAppSCAN dataset]\]
-. *DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities* \n
-  *Jianzhong Su*, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen\*, Zibin Zheng, Wei Lv, Jiashui Wang.\n
-   In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2023*) \[CCF-A\].\n
-  \[[https://github.com/Demonhero0/DeFiWarder/blob/main/paper/DeFiWarder_ASE23.pdf pdf]\]
-  \[[https://github.com/Demonhero0/DeFiWarder code]\]
 . *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum* \n
   Zibin Zheng, Neng Zhang\*, *Jianzhong Su*, Zhijie Zhong, Mingxi Ye, Jiachi Chen.\n
   In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering. (*ICSE 2023*) \[CCF-A\].\n
   \[[https://arxiv.org/abs/2303.13770 pdf]\]
   \[[https://github.com/InPlusLab/ReentrancyStudy-Data dataset]\]
-. *Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing* \n
-  *Jianzhong Su*, Hong-Ning Dai, Lingjun Zhao, Zibin Zheng\*, Xiapu Luo.  \n
-  In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. (*ASE 2022*) \[CCF-A\].\n
-  \[[https://dl.acm.org/doi/abs/10.1145/3551349.3560429 pdf]\]
-  \[[https://github.com/Demonhero0/rlf code]\]
 
 == Awards
 
